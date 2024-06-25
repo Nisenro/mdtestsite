@@ -8,7 +8,7 @@ layout: default
         <a href="https://www.computer.org">IEEE COMPUTER SOCIETY</a>
     </div>
     <div class="navbar">
-        <img class="main-logo" src="./assets/images/tcbis logo.png" alt="TCBIS Logo">
+        ![TCBIS Logo](/assets/images/tcbis%20logo.png)
         <ul class="nav-content">
             <li>Home</li>
             <li>Conferences</li>
