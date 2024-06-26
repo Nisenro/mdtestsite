@@ -10,7 +10,7 @@ permalink: /
 </div>
 
 <div class="navbar">
-    ![TCBIS Logo](./assets/images/tcbis%20logo.png)
+    ![TCBIS Logo](images/tcbis-logo.png)
     - [Home]()
     - [Conferences]()
     - [Executive Committee]()
